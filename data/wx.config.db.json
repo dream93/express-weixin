@@ -1,0 +1,36 @@
+{
+    "menuTime": 0,
+    "menu": {
+        "button": [
+            {
+                "name": "填写示例",
+                "sub_button": [
+                    {
+                        "type": "click",
+                        "name": "这是一个点击",
+                        "key": "V1000_KEYWORD"
+                    }
+                ]
+            },
+            {
+                "name": "填写示例1",
+                "sub_button": [
+                    {
+                        "type": "view",
+                        "name": "指示一个连接",
+                        "url": "https://blog.xyzzlky.cn"
+                    },
+                    {
+                        "type": "click",
+                        "name": "公众号",
+                        "key": "V1000_GIT"
+                    }
+                ]
+            }
+        ]
+    },
+    "keyWords": {
+        "hello": "你好！"
+    },
+    "subscribeMsg": "感谢关注本公众号:奶爸程序猿"
+}
